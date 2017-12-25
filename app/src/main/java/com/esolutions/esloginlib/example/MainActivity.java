@@ -1,4 +1,4 @@
-package esolutions.com.esloginlib.example;
+package com.esolutions.esloginlib.example;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
